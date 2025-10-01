@@ -24,8 +24,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Survival Mods"
-include(":app_survival")
+rootProject.name = "Animal Mods"
+include(":app_animal")
 include(":domain")
 include(":core")
 include(":core:ui")
